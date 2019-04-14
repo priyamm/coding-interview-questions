@@ -1,3 +1,4 @@
+package com.priyam.trees;
 
 public class BinaryTreeNode {
 	private int data;
